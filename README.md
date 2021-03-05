@@ -1,3 +1,3 @@
 # Proto_HUMPR
-First iteration of the front end UI for HUMPR: a privacy focused social media.
-made mostly with bootstrap + HTML  CSS
+First iteration of the front end UI and UX for HUMPR: a privacy focused social media.
+Made mostly with bootstrap + HTML + CSS
